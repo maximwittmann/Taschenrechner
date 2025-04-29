@@ -1,4 +1,4 @@
-# 🖩Taschenrechner
+# 🧮Taschenrechner
 
 ## 📝 Projektbeschreibung
 Eine Rechner-App mit grafischer Oberfläche (Tkinter) für Grundrechenarten in Python.
